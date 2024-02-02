@@ -1,6 +1,6 @@
 package org.example;
 
-public class SharedResources {
+public class VolatileResource {
 
     private volatile Boolean flag = false;
 

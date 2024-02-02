@@ -1,8 +1,8 @@
 package org.example;
 
-public class Main {
+public class Volatile {
     public static void main(String[] args) {
-        SharedResources sharedResources = new SharedResources();
+        VolatileResource sharedResources = new VolatileResource();
 
 
         //Thread - 1
